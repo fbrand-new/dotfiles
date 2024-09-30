@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:fbrand-new/kickstart.nvim.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "upstream"]
+	url = git@github.com:nvim-lua/kickstart.nvim.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*

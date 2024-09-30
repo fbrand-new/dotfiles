@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 53e925240f57788138135a29c138aeecdcb5afd5 fbrand-new <francesco.brand@iit.it> 1696754960 +0200	clone: from github.com:nvim-lua/kickstart.nvim.git
+53e925240f57788138135a29c138aeecdcb5afd5 60d8db48953aed688c5527e7a796b624211b5bbe fbrand-new <francesco.brand@iit.it> 1698052633 +0200	pull origin master: Fast-forward
+60d8db48953aed688c5527e7a796b624211b5bbe 60d8db48953aed688c5527e7a796b624211b5bbe fbrand-new <francesco.brand@iit.it> 1726766681 +0200	reset: moving to HEAD
+60d8db48953aed688c5527e7a796b624211b5bbe 7201dc480134f41dd1be1f8f9b8f8470aac82a3b fbrand-new <francesco.brand@iit.it> 1726766686 +0200	pull upstream master --rebase (start): checkout 7201dc480134f41dd1be1f8f9b8f8470aac82a3b
+7201dc480134f41dd1be1f8f9b8f8470aac82a3b 3ac92fdd2b5395ab855ae5def308e1f0668b5a75 fbrand-new <francesco.brand@iit.it> 1726766761 +0200	rebase (continue): Default indentation fixes
+3ac92fdd2b5395ab855ae5def308e1f0668b5a75 3ac92fdd2b5395ab855ae5def308e1f0668b5a75 fbrand-new <francesco.brand@iit.it> 1726766764 +0200	rebase (continue) (finish): returning to refs/heads/master
+3ac92fdd2b5395ab855ae5def308e1f0668b5a75 25048728814919f003170e6df478d7e003a69f56 fbrand-new <francesco.brand@iit.it> 1726768051 +0200	commit: Added customization for color theme
+25048728814919f003170e6df478d7e003a69f56 7201dc480134f41dd1be1f8f9b8f8470aac82a3b fbrand-new <francesco.brand@iit.it> 1726768168 +0200	reset: moving to 7201dc480134f41dd1be1f8f9b8f8470aac82a3b
+7201dc480134f41dd1be1f8f9b8f8470aac82a3b 7201dc480134f41dd1be1f8f9b8f8470aac82a3b fbrand-new <francesco.brand@iit.it> 1726768183 +0200	reset: moving to HEAD
+7201dc480134f41dd1be1f8f9b8f8470aac82a3b 9515ea980cc4a222fe3f3b07d36d7b3285772049 fbrand-new <francesco.brand@iit.it> 1726769210 +0200	commit: Added customization for color theme
+9515ea980cc4a222fe3f3b07d36d7b3285772049 9515ea980cc4a222fe3f3b07d36d7b3285772049 fbrand-new <francesco.brand@iit.it> 1726769217 +0200	reset: moving to HEAD
